@@ -1,6 +1,6 @@
 {
   "name": "@wink-financial/google",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "Google OAuth2 using Google Identity Services for React 🚀",
   "main": "./dist/index.js",
   "module": "./dist/index.esm.js",
